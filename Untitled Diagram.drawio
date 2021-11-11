@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T06:05:44.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="gXcu-4b0gO7Qmia9nHl4" version="15.7.3" type="github"><diagram id="7geyOl3rKRpMNPWmD4LE" name="Page-1">7Vhbb+I4GP01PBLFCeHySKCZHWlWWm13tY+ViZ3EqhNHtim0v34/Jw7kxsBsabXSDBUlPr5/55zPhom/yY9fJC6z3wWhfOK55DjxtxPPW83m8N8ArzUwR7MaSCUjNYTOwCN7oxZ0LbpnhKpOQy0E16zsgrEoChrrDoalFIdus0Tw7qwlTukAeIwxH6L/MKKzGl0G7hn/jbI0a2ZGrq3JcdPYAirDRBxakP8w8TdSCF0/5ccN5SZ2TVzqftGF2tPCJC30LR1Wi2hNv/0dyV35kh7X5V9/fv0ytWS8YL63G7aL1a9NBNQz1bHZijvxQ6zKOsoJO1IYOCwFKzSVDy+wChNqBNhpp6YHwSozLatCpnPeNNJSPNON4EICUogCpgs53lH+h1BMM1EAHFMzOFS8UKkZsPKt12AntBZ5q8Gas9RUaFGa5drSaZyEcd7MOfF810XL5bZecmn2mx9TI2MnVzGmTtWrlExRBxdECkaeysystA4aTEmPF9lAJ47BG1TkVMtXaNJ0aHRifTFb2PLhrDLfQllLYI3wsNV1ehr5TD08WPZ/QAnBdSVcJaFF7418jKpgQFL4EHkjJOG3vaROLnbMrHBUindgyvduYCr4RKZWA6Y2sBWJTcdHKmGz8LARhcasYEVaFSRo1rXJuccqREZ3uRuw1CczZ4RUIZdUsTe8q4ZyGwqq/QbhJDDGwnsNQqmy+kXXt/m20D14m3V5OyXiFm8nrE2c91HEIfQr296WbWO+V1B4UlbO7xfDqiuGEQ8j5A21gGYfJob50MYdm3YtTFiS0Gq3VSQUEKJ+GiufUm6TgkecPHZYfpyTFzc42Yqc5dUV8/rheNV1lV9DHD+nUuwL0nJWUr2gSTXZukkboznErmebaW3u0GsTCS+KSeE5DG7RCSsIlU4MM3oRwRrDh8FBbRFVChhjmE8PdDc1MTSHXGT1OKUlU6DdqdJY0xxaTqlJVNNEgpKnyFs6pdHy++WAepk9GMgh+MyrExqeyN/P62KvOSvAO813FgMmEKQWpfAXmTWEkCIJo+e6C5ek+SKaLy/ZsnMs3Cu7twRt1m6/uyGvKdvN/8hB1r3eHdTMUSDWHD/DWZBXafE++cSfX80nn5lOmoFvFlA3OYfQfVO/IVF7G4M4xhQDcAxbDEE0bAYfaGyGPjiGLYYgGjYzpWbVXXAMWwTDFfd7o5HeqNe7Otne5Ueom61Db7Vu1W2ZhIFqWxVCGlH1DYvQfAvk9Q3bTub/O9eOOhQuDmIvY/o1Nusx94j6qefjQhx2mPMnStJ7XfB7d7qZP7TxYjm0cYPd38bedRsfMqbpY4ljUz5AfHr3tX7I7xAnFHTjFLgjl9+xfIf+Q8KD4vknraqu9bug//Av</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-11T06:30:47.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GYO1UlX6kGASTDBI1AHF" version="15.7.3" type="github">
+  <diagram id="7geyOl3rKRpMNPWmD4LE" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97FAeLUFrbpvgxApTRIG-9" target="97FAeLUFrbpvgxApTRIG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97FAeLUFrbpvgxApTRIG-9" value="Central Server Containing Core Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="340" y="220" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="97FAeLUFrbpvgxApTRIG-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.cluster_server" parent="1" vertex="1">
+          <mxGeometry x="390" y="70" width="112" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="97FAeLUFrbpvgxApTRIG-16" value="Core Model Containing different versions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="40" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="97FAeLUFrbpvgxApTRIG-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-2/50/version-episode-statement-event-front-128.png" parent="1" vertex="1">
+          <mxGeometry x="410" y="25" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="97FAeLUFrbpvgxApTRIG-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="1" vertex="1">
+          <mxGeometry x="436" y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health" vertex="1" parent="1">
+          <mxGeometry x="480" y="339" width="80" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="710" y="300" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-6" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="iEKxfYjAYJ7HfhQAn8b0-17">
+          <mxGeometry width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-16" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="iEKxfYjAYJ7HfhQAn8b0-17">
+          <mxGeometry x="37.3728813559322" y="7.627118644067796" width="15.254237288135592" height="13.728813559322033" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-18" value="Hospital" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-19" value="Other Biomedical Device" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-21" value="Mobile Device Health Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="224.25" y="419" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="280" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/top-search-7/128/_phone_communication_iphone_mobile_telephone_smartphone_device-128.png" vertex="1" parent="iEKxfYjAYJ7HfhQAn8b0-22">
+          <mxGeometry width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-7" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cognitive_Services.svg;" vertex="1" parent="iEKxfYjAYJ7HfhQAn8b0-22">
+          <mxGeometry x="17.142857142857142" y="27.755102040816325" width="35.714285714285715" height="21.42857142857143" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-23" value="Mobile Device&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="298.5" y="350" width="41.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.mobile" vertex="1" parent="iEKxfYjAYJ7HfhQAn8b0-24">
+          <mxGeometry width="41.5" height="59.28571428571429" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.health_monitoring;" vertex="1" parent="iEKxfYjAYJ7HfhQAn8b0-24">
+          <mxGeometry x="7.670089285714303" y="21.875" width="26.159821428571426" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-29" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cognitive_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="502.1428571428571" y="389.99510204081633" width="35.714285714285715" height="21.42857142857143" as="geometry" />
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-31" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;" edge="1" parent="1" source="iEKxfYjAYJ7HfhQAn8b0-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="250" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-32" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;entryX=0.364;entryY=1.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="97FAeLUFrbpvgxApTRIG-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-34" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="510" y="330" as="sourcePoint" />
+            <mxPoint x="470" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-35" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="730" y="280" as="sourcePoint" />
+            <mxPoint x="520" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iEKxfYjAYJ7HfhQAn8b0-37" value="Devices sending data on their context, learned shared parameters via polling" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="110" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
